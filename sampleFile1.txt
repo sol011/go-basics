@@ -1,0 +1,3 @@
+this is sample file 1
+
+please write this file in nate.first_schema.sample_file_1
