@@ -8,4 +8,7 @@ Writing some code to grasp the fundamentals of go.
 6. exporting code
 7. importing code from other files
 8. interfaces to create functions with flexible types
-9. extending interfaces
+9. extending interfaces to implement trait bounds
+10. concurrency using waitgroups
+11. buffered and unbuffered channels
+12. deadlocks
